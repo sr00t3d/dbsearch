@@ -254,7 +254,7 @@ Checked 1 table(s).
 
 Para um guia completo passo a passo, confira meu artigo completo:
 
-👉 [**Execute uma busca melhorada em bancos de dados**](https://perciocastelo.com.br/blog/perform-an-enhanced search-in-databases.html)
+👉 [**Execute uma busca melhorada em bancos de dados**](https://perciocastelo.com.br/blog/perform-an-enhanced-search-in-databases.html)
 
 ## Licença
 

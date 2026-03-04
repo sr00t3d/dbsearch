@@ -253,7 +253,7 @@ Checked 1 table(s).
 
 For a complete step-by-step guide, check out my full article:
 
-👉 [**Perform an enhanced search in databases**](https://perciocastelo.com.br/blog/perform-an-enhanced search-in-databases.html)
+👉 [**Perform an enhanced search in databases**](https://perciocastelo.com.br/blog/perform-an-enhanced-search-in-databases.html)
 
 ## License
 

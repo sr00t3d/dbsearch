@@ -25,10 +25,10 @@ Download and make it executable
 
 ```bash
 curl -O https://raw.githubusercontent.com/sr00t3d/dbsearch/refs/heads/main/dbsearch.sh
-chmod +x dbsearch
+chmod +x dbsearch.sh
 
-# Run once to install the wrapper
-./dbsearch any-domain.com
+# Run
+./dbsearch.sh [options] <search term>
 ```
 
 ## Options and Parameters
